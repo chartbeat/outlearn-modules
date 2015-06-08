@@ -1,0 +1,11 @@
+{
+  "olpVersion" : "0.5",
+  "modules" : [
+    {
+      "olm" : "./chartbeat-riak/how-chartbeat-uses-riak.md"
+    }
+  ],
+
+  "assets" : [
+  ]
+}
