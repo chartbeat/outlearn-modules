@@ -1,8 +1,5 @@
 {
-  "olpVersion" : "0.5",      
-  "pages" : [
-        {"module" : "chartbeat-riak"}
-  ],
+  "olpVersion" : "0.5",
   "modules" : [
     {
       "olm" : "./chartbeat-riak/how-chartbeat-uses-riak.md"
