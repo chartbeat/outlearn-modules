@@ -1,3 +1,16 @@
+<!--
+{
+"name": "chartbeat-riak",
+"version" : "0.1",
+"freshnessDate" : 2015-06-08,
+"title" : "How Chartbeat Uses Riak",
+"homepage" : "tango.outlearn.com",
+"author" : "Nathan Potter",
+"organization" : "Chartbeat",
+"description": "An introduction to how we use Riak at Chartbeat"
+}
+-->
+
 # How Chartbeat Uses Riak
 At Chartbeat, Riak is one of several persistence platforms we use in platform development. These include MySQL and Postgres (via [RDS](http://aws.amazon.com/rds/)), [MongoDB](https://www.mongodb.org/), and [RedShift](http://aws.amazon.com/redshift/). Riak is used primarily for realtime systems. It offers the best combination of read/write times and horizontal scalability of the Chartbeat systems currently in production. 
 
